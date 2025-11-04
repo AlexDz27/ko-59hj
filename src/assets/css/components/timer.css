@@ -8,3 +8,29 @@
   font-size: 1.3rem;
   color: green;
 }
+
+.timer {
+  text-align: center;
+  font-size: 8rem;
+}
+
+.timer__input {
+  max-width: 8rem;
+  border: none;
+}
+.timer__input__minutes {
+  padding-right: .2rem;
+}
+.timer__input__seconds {
+  padding-left: .2rem;
+}
+
+.timer__wrap__time-after-countdown {
+  text-align: center;
+}
+.timer__wrap__time-after-countdown__text {
+  background-color: gainsboro;
+  padding-left: .6rem;
+  padding-right: .6rem;
+  border-radius: .25rem;
+}

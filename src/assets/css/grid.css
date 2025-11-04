@@ -6,6 +6,6 @@
 }
 
 .main {
-  padding-top: 1rem;
+  padding-top: 3.8rem;  /* TODO: make so that app centers itself instead of pt in .main */
   padding-bottom: 2rem;
 }
